@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+# TextUtils
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+TextUtils is a versatile word counter and character counting utility app designed to manipulate text in various ways. It offers a range of features including:
 
-## Available Scripts
+- **Word Count**: Count the number of words in the text.
+- **Character Count**: Calculate the total number of characters in the text.
+- **Remove Extra Spaces**: Eliminate unnecessary spaces to clean up the text.
+- **Convert Case**: Transform text between UpperCase and LowerCase, providing flexibility in formatting.
+- **Clear Text**: Quickly clear the input field to start fresh.
+- **Text to Speech**: Utilize text-to-speech functionality to have the text spoken aloud.
 
-In the project directory, you can run:
+TextUtils empowers users to manipulate text effortlessly, catering to a diverse range of needs.
 
-### `npm start`
+## Author
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This project was created by Pinak Gupta.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Usage
 
-### `npm test`
+1. **Word Count**:
+   - Input: Any text.
+   - Output: Number of words in the text.
+   
+2. **Character Count**:
+   - Input: Any text.
+   - Output: Total number of characters in the text.
+   
+3. **Remove Extra Spaces**:
+   - Input: Text with extra spaces.
+   - Output: Text with extra spaces removed.
+   
+4. **Convert Case**:
+   - Input: Text in any case.
+   - Output: Text converted to either UpperCase or LowerCase as desired.
+   
+5. **Clear Text**:
+   - Action: Clears the text input field.
+   
+6. **Text to Speech**:
+   - Input: Text to be spoken.
+   - Output: Audio output of the provided text.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
